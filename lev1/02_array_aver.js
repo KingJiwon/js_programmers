@@ -6,3 +6,5 @@ function solution(arr) {
   answer = add / arr.length;
   return answer;
 }
+
+// 배열 평균 구하기

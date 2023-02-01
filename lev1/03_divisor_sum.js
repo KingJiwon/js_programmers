@@ -7,3 +7,5 @@ function solution(n) {
   }
   return answer;
 }
+
+//약수의 합 구하기
