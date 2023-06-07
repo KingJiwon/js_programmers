@@ -1,4 +1,1 @@
-function solution(n, m) {
-  var answer = [];
-  return answer;
-}
+function solution(n, m) {}
