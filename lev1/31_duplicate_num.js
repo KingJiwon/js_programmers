@@ -7,5 +7,3 @@ function solution(arr) {
   });
   return answerArr;
 }
-
-console.log(solution([4, 4, 4, 3, 3]));
