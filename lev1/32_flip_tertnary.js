@@ -1,1 +1,2 @@
 function solution(n) {}
+solution();
