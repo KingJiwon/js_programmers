@@ -1,2 +1,0 @@
-function solution(n) {}
-solution();
