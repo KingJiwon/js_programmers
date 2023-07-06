@@ -1,4 +1,1 @@
-function solution(s) {
-  var answer = "";
-  return answer;
-}
+function solution(s) {}
