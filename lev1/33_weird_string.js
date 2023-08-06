@@ -1,1 +1,1 @@
-function solution(s) {}
+
