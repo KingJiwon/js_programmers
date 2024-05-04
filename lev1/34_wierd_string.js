@@ -1,4 +1,6 @@
 function solution(s) {
-  var answer = "";
-  return answer;
+  const deletedBlank = s.split(" ").join("");
+
+  return deletedBlank;
 }
+console.log(solution("try hello world"));
